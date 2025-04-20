@@ -46,3 +46,10 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+
+Images
+=======
+
+https://github.com/prayagpadwal/OpenWeatherAPI/blob/main/images/Postgresql.png
+https://github.com/prayagpadwal/OpenWeatherAPI/blob/main/images/Docker%20container.png
+https://github.com/prayagpadwal/OpenWeatherAPI/blob/main/images/Airflow%20detailed.png
