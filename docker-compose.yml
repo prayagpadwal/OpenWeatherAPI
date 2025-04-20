@@ -1,0 +1,27 @@
+version: "3.9"
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: xxxx
+      POSTGRES_PASSWORD: xxxx
+      POSTGRES_DB: postgres
+    ports:
+      - "5433:5432"  # Expose PostgreSQL to the host at port 5433
+    networks:
+      - mynetwork
+
+  python_app:
+    build: .
+    container_name: learnairflow
+    depends_on:
+      - postgres  # Ensure PostgreSQL starts first
+    networks:
+      - mynetwork
+    environment:
+      DATABASE_HOST: postgres  # Use the service name as the hostname for PostgreSQL
+
+networks:
+  mynetwork:
+    driver: bridge
