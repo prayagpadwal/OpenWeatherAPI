@@ -1,5 +1,18 @@
 Overview
 ========
+### 🛠️ Technologies & Tools I Use:
+
+![API](https://img.shields.io/badge/API-REST%2FGraphQL-ffcc00?style=flat)
+![XML](https://img.shields.io/badge/XML-Data-orange?style=flat&logo=xml&logoColor=white)
+![Flatfile](https://img.shields.io/badge/Flatfile-CSV%2FTSV%20Processing-blue?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DataQuerying-003B57?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ![image](https://github.com/user-attachments/assets/1d3cd9bd-7c79-4f71-a38a-73f8003da9ff)
 
 Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
