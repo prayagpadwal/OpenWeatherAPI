@@ -1,5 +1,6 @@
 Overview
 ========
+![image](https://github.com/user-attachments/assets/1d3cd9bd-7c79-4f71-a38a-73f8003da9ff)
 
 Welcome to Astronomer! This project was generated after you ran 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
 
