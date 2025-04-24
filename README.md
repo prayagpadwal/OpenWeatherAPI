@@ -50,7 +50,6 @@ The Astronomer CLI is maintained with love by the Astronomer team. To report a b
 
 Images
 =======
-
-https://github.com/prayagpadwal/OpenWeatherAPI/blob/main/images/Postgresql.png
-https://github.com/prayagpadwal/OpenWeatherAPI/blob/main/images/Docker%20container.png
-https://github.com/prayagpadwal/OpenWeatherAPI/blob/main/images/Airflow%20detailed.png
+![Airflow detailed](https://github.com/user-attachments/assets/1e5ec1db-7cda-4915-b5f1-8a01bafe0140)
+![Docker container](https://github.com/user-attachments/assets/d0da014b-b856-4257-9a4e-f22e4b71ac6c)
+![Postgresql](https://github.com/user-attachments/assets/9736083a-9db7-4c90-83df-64c3872ad4d3)
